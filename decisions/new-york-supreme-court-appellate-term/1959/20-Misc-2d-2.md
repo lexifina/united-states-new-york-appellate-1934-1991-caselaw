@@ -1,0 +1,36 @@
+---
+court: "New York Supreme Court, Appellate Term"
+decided: "1959-06-16"
+citations: ["20 Misc. 2d 2"]
+reporter: "misc2d"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["General Exchange Insurance Corporation, as Assignee of Mary L. Moakley, et al., Appellants, v. New York City Transit Authority, Respondent."]
+source_url: "https://static.case.law/misc2d/20/cases/0002-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1053865
+cites_cases: ["113 App. Div. 46", "167 N. Y. 66", "219 App. Div. 833", "223 App. Div. 555", "249 N. Y. 618", "252 App. Div. 215", "260 App. Div. 1046", "269 App. Div. 856", "280 App. Div. 855", "281 App. Div. 93", "283 App. Div. 140"]
+---
+
+# General Exchange Insurance v. New York City Transit Authority
+
+## Majority (Walter R. Hart, J.)
+
+Walter R. Hart, J.
+The action was brought to recover damages resulting from defendant’s alleged negligence in the operation of a bus which collided with an automobile owned by plaintiff Mary L. Moakley and operated by her husband, Charles D. Moakley. Plaintiff General Exchange Insurance Corporation joined in the suit as assignee (subrogee) of the claim for property damage to the automobile. Mary L. Moakley alleged a cause of action for personal injuries and Charles D. Moakley claimed damages for loss of his wife’s services.
+The evidence adduced at the trial presented questions of fact as to the negligence of the operators of both vehicles, the extent and duration of the injuries sustained by plaintiff wife and the medical expenses incurred in connection therewith. The jury returned a verdict in favor of the plaintiffs in the following amounts: $449.24 to General Exchange Insurance Corporation ; $1,500 to Mary L. Moakley; and six cents to Charles D. Moakley. Defendant moved to set aside the verdict as contrary to law, against the weight of the evidence, and for excessiveness. The court at first indicated that it would reserve decision on the motion insofar as it related to the verdict for Mary L. Moakley, but subsequently reserved decision as to all the plaintiffs and ultimately set aside the entire verdict without stating any reason for doing so.
+At first impression the award of nominal damages to Charles D. Moakley would appear to be inconsistent with the amount of the verdict in favor of his wife. In this connection, however, it is enough to say that the foregoing verdict was permissible under the charge of the court, to which no exception was taken by plaintiffs. The right to challenge the verdict for inconsistency was lost by failure to object to the charge pursuant to which such verdict was rendered. (Saulsbury v. Braun, 223 App. Div. 555, affd. 249 N. Y. 618; Kaplan v. City of New York, 269 App. Div. 856.)
+As noted, the trial court did not assign any reason for setting aside the verdict — although required to do so by rule 224 of the Rules of Civil Practice. Trial courts have been frequently criticized for failure to comply with this rule. (See Coleman v. Brooklyn & Queens Tr. Corp., 252 App. Div. 215; Slacke v. Yellow Taxi Corp., 260 App. Div. 1046.) But despite such omission, it may be assumed in a proper case that the verdict was set aside for the reason that it was against the weight of the . evidence. In the situation at bar, this assumption would appear to find support in the trial court’s decision setting aside the verdict as to all the plaintiffs after first giving some indication that the verdict in favor of plaintiff wife might have been excessive. In these circumstances, the setting aside of the verdict instead of conditionally reducing it as to plaintiff wife is not without significance.
+Concerning interference with verdicts generally, it is the rule that a trial court may not substitute its judgment for that of the jury, but when it does set aside a verdict its determination will not be disturbed unless there has been an abuse of discretion (Coleman v. Brooklyn & Queens Tr. Corp., supra; Robinson v. Interurban St. Ry. Co., 113 App. Div. 46.) This is upon the theory that the Trial Justice was in the atmosphere of the trial, observed the witnesses, heard their testimony, and was in a better position to judge their credibility, while an appellate court has only the printed record before it. (Cf. Kligman v. City of New York, 281 App. Div. 93.) Even when the record presents clear-cut questions of fact, -an appellate court may, nevertheless, properly decline to say that the Trial Justice erred in setting aside the jury’s verdict. (Weber v. Steingart, 219 App. Div. 833.)
+In Mann v. Hunt (283 App. Div. 140, 141-142), the court (per Beegah, J.) cogently stated the applicable rule as follows:
+‘ ‘ A court which reviews the weight of evidence as well as the law, as does an Appellate Division, must approach an appeal from a decision by a trial judge setting aside a verdict in the light of the nature of the duty and the subtle and not easily definable measure of responsibility which the judge exercises in decision.
+“ The duty of the judge to supervise the reasonableness of the verdicts returned to him ought to be viewed liberally on appeal because the independence of mind with which that duty is exercised is ingredient to the sound health of the judicial process. (Lipshitz v. Sloan, 280 App. Div. 855.)
+“Even if the judges who look at the case on appeal would not themselves have set the verdict aside had they acted in the first instance, they should not find in this alone a ground for reversal. If the case comes within the area within which judicial interference would not be regarded by the profession as unreasonable, the exercise of the power thus to deal with the verdict ought to be upheld.
+# * *
+“ It is our view that the case lies well within the area of the judge’s power to set the verdict aside in the supervision of the jury’s work before him. Having himself heard the facts developed from the witnesses and sensed the atmosphere and texture of the trial, he had the duty of maintaining reasonable consistency between the weight of evidence and the verdict reached. * # *
+‘ ‘ There is ‘ no standard by which to determine ’ when a verdict should be set aside as against the weight of evidence. The decision 1 depends upon the discretion of the court ’ (McDonald v. Metropolitan St. Ry. Co., 167 N. Y. 66, 69).”
+In the present case it cannot be said that the plaintiffs have shown the absence of a reasonable basis for the setting aside of the .verdict. The Trial Justice who had the advantage, denied this court, of observing the witnesses as they gave their testimony, was no doubt convinced that the jury’s verdict was against the weight of the credible evidence. I think we should hesitate to say that its conclusion was unfounded, especially in view of the contradictions in the plaintiffs’ proof as to the manner in which the accident occurred and in other aspects of their case.
+Upon this record and in the light of the applicable principles governing appellate courts in situations of this kind, it is my view that the discretion of the trial court in setting aside the verdict and ordering a new trial was properly exercised and should not be disturbed.
+The order should be affirmed, with $25 costs.
+Pette and Brown, JJ., concur.
+Order affirmed, etc.
